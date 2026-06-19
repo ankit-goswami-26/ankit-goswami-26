@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1>Hi, I'm Ankit 👋</h1>
 
-<!--
-**ankit-goswami-26/ankit-goswami-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+BCA student and Java Backend Developer (Fresher) from Mumbai, India.
+</p>
 
-Here are some ideas to get you started:
+<p>
+Focused on building strong fundamentals and developing backend applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+<p>
+Java • SQL • Git • GitHub
+</p>
+
+<h3>📚 Currently Learning</h3>
+
+<p>
+Spring Boot • Backend Development • System Design
+</p>
+
+<h3>🎯 Looking For</h3>
+
+<p>
+Backend internship and entry-level opportunities.
+</p>
