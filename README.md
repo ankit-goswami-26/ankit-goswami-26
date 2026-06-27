@@ -1,26 +1,39 @@
-<h1>Hi, I'm Ankit 👋</h1>
+<h1>Hi, I'm Ankit Goswami 👋</h1>
 
 <p>
-BCA student and Java Backend Developer (Fresher) from Mumbai, India.
+• BCA student and Java Backend Developer (Fresher) from Mumbai, India.
 </p>
 
 <p>
-Focused on building strong fundamentals and developing backend applications.
+• Focused on building strong fundamentals and developing backend applications.
 </p>
+<br>
 
-<h3>🛠 Tech Stack</h3>
+<h2> Tech Stack 🛠</h2>
 
 <p>
-Java • SQL • Git • GitHub
+Core Java • SQL basics • Git & GitHub • Notion
 </p>
+<br>
 
-<h3>📚 Currently Learning</h3>
+
+<h2> In Progress ⭐</h2>
 
 <p>
-Spring Boot • Backend Development • System Design
+Advance java • DSA • OOPS
 </p>
+<br>
 
-<h3>🎯 Looking For</h3>
+
+<h2> Next Steps 📌</h2>
+
+<p>
+Spring Framework • Microservices basics • Kafka basics • System Design basics
+</p>
+<br>
+
+
+<h2> Looking For 🎯</h2>
 
 <p>
 Backend internship and entry-level opportunities.
